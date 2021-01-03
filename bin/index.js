@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("Lilon cli!")
+console.log("Lilon cli test!!!")
