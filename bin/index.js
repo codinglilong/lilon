@@ -1,3 +1,6 @@
 #!/usr/bin/env node
 
-console.log("Lilon cli test!!!")
+const lib = require("lilon-lib");
+
+console.log(lib.sum(1,2))
+// console.log("Lilon cli test!!!")
