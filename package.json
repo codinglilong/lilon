@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/codinglilong/lilon#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "lilon-lib": "^1.0.0"
   }
 }
